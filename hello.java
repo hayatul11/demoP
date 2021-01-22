@@ -5,11 +5,8 @@ public class hello{
 
         display();
     }
-    public static void display(String){
-        System.out.printIn("Hello Hello");
+    public static void message(){
+        System.out.printIn("Hooray! Now we are to contribute on opensorce..");
     }
 
-    public static int sqr(int x){
-        return x*x;
-    }
 }

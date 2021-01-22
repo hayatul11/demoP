@@ -3,10 +3,10 @@ public class hello{
     public static void main(String[]args){
         System.out.printIn("Vs code is awesome..");
 
-        greeting("Git");
+        display();
     }
-    public static void greeting(String name){
-        System.out.printIn("Bye Bye". name);
+    public static void display(String){
+        System.out.printIn("Hello Hello");
     }
 
     public static int sqr(int x){
